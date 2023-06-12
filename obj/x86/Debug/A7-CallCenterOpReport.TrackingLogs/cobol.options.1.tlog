@@ -1,0 +1,4 @@
+^C:\USERS\TYPIC\DOCUMENTS\WORK\Y2S2\MAFD-4202\A7-CALLCENTEROPREPORT\PROGRAM1.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Program1.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" obj"C:obj\x86\Debug\Program1.obj" delint xtraint . MFCBT_CopyPaths=
+^C:\USERS\TYPIC\DOCUMENTS\WORK\Y2S2\MAFD-4202\A7-CALLCENTEROPREPORT\A7-CALLCENTEROPREPORT.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\A7-CallCenterOpReport.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" obj"C:obj\x86\Debug\A7-CallCenterOpReport.obj" delint xtraint . MFCBT_CopyPaths=

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "A7-CallCenterOpReport", "A7-CallCenterOpReport.cblproj", "{D79DCA43-AF4A-426D-8A83-C9EAFA56CD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79DCA43-AF4A-426D-8A83-C9EAFA56CD44}.Debug|x86.ActiveCfg = Debug|x86
+		{D79DCA43-AF4A-426D-8A83-C9EAFA56CD44}.Debug|x86.Build.0 = Debug|x86
+		{D79DCA43-AF4A-426D-8A83-C9EAFA56CD44}.Release|x86.ActiveCfg = Release|x86
+		{D79DCA43-AF4A-426D-8A83-C9EAFA56CD44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E32E5BD-5C4D-4EDD-A311-124759AD2709}
+	EndGlobalSection
+EndGlobal
